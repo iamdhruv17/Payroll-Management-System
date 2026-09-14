@@ -5,7 +5,7 @@ A web-based Payroll Management System that automates salary processing, attendan
 ## 📌 Project Overview
 The Payroll Management System streamlines the entire payroll cycle — from marking attendance and applying for leave to calculating salaries and generating payslips. The system supports two primary actors, **HR** and **Employee**, each with a distinct set of permissions and workflows, as defined in the project's use case diagram.
 
-## 👥 User Roles & Features
+## 👥 User Roles & Features :
 
 ### HR (Admin)
 - Login / Authenticate User
@@ -18,7 +18,7 @@ The Payroll Management System streamlines the entire payroll cycle — from mark
 - Generate Payroll Reports *(extends to: Export Report)*
 - View Payroll History
 
-### Employee
+### Employee :
 - Login / Authenticate User
 - View Profile
 - View Attendance
@@ -27,10 +27,10 @@ The Payroll Management System streamlines the entire payroll cycle — from mark
 - View Payslip *(extends to: Download Payslip)*
 - View Payroll History
 
-### Shared
+### Shared :
 - **Authenticate User** — both HR and Employee logins route through a common authentication use case (`<<include>>`), ensuring a single, consistent login/security flow across the system.
 
-## 👨‍👩‍👧‍👦 Team Members
+## 👨‍👩‍👧‍👦 Team Members :
 | Name | Role |
 |------|------|
 | Ayush Goel | Project Owner |
