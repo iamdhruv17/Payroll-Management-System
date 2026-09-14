@@ -34,6 +34,6 @@ The Payroll Management System streamlines the entire payroll cycle — from mark
 | Name | Role |
 |------|------|
 | Ayush Goel | Project Owner |
-| Ayush Kumar Dingra | Lead Developer |
+| Ayush Kumar Dhingra | Lead Developer |
 | Dhruv Singhal | Developer |
 | Divyansh Kaushik | Database Administrator |
