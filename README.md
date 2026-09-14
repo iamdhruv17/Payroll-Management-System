@@ -8,7 +8,7 @@ The Payroll Management System streamlines the entire payroll cycle — from mark
 ## 👥 User Roles & Features :
 
 ### HR (Admin)
-- Login / Authenticate User
+- Login / Authenticate Users
 - Manage Employee Details
 - Manage Attendance
 - Manage Leave requests
@@ -19,7 +19,7 @@ The Payroll Management System streamlines the entire payroll cycle — from mark
 - View Payroll History
 
 ### Employee :
-- Login / Authenticate User
+- Login / Authenticate Users
 - View Profile
 - View Attendance
 - Apply for Leave *(includes: Check Leave Availability)*
@@ -28,7 +28,7 @@ The Payroll Management System streamlines the entire payroll cycle — from mark
 - View Payroll History
 
 ### Shared :
-- **Authenticate User** — both HR and Employee logins route through a common authentication use case (`<<include>>`), ensuring a single, consistent login/security flow across the system.
+- **Authenticate Users** — both HR and Employee logins route through a common authentication use case (`<<include>>`), ensuring a single, consistent login/security flow across the system.
 
 ## 👨‍👩‍👧‍👦 Team Members :
 | Name | Role |
